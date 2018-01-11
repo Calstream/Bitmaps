@@ -1,0 +1,19 @@
+﻿C:\Misc\MSVS17\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Images-C.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  im.c
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(141): warning C4244: 'initializing': conversion from 'double' to 'byte', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(192): warning C4244: 'initializing': conversion from 'double' to 'byte', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(231): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(232): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(233): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(292): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(293): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(305): warning C4133: 'function': incompatible types - from 'RGBTriplet *' to 'BYTE *'
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(305): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(306): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(308): warning C4133: 'function': incompatible types - from 'RGBTriplet *' to 'BYTE *'
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(308): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(309): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(311): warning C4133: 'function': incompatible types - from 'RGBTriplet *' to 'BYTE *'
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(314): warning C4133: 'function': incompatible types - from 'RGBTriplet *' to 'BYTE *'
+c:\users\argos\desktop\rab\bitmaps-c\images-c\im.c(317): warning C4133: 'function': incompatible types - from 'RGBTriplet *' to 'BYTE *'
+  Images-C.vcxproj -> C:\Users\Argos\Desktop\rab\Bitmaps-C\Debug\Bitmaps-C.exe
